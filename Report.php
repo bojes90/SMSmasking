@@ -7,11 +7,11 @@ $result 	= file_get_contents($url);
 						
 //Contoh Balasan API :
 
-{
+[{
   "id_kirim": "83972ed851a0285c157b4f3d4736533b",
   "no_tujuan": "081396413851",
   "tgl_kirim": "25-Apr-2019\/11:40:57",
   "laporan_pengiriman": "Terkirim"
-}
+}]
 
 
